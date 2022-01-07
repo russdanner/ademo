@@ -27,7 +27,7 @@
   <createdDate>2017-1-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2021-03-31T18:08:03.196Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-01-07T21:32:26.640Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-01-07T21:32:43.258Z</lastModifiedDate_dt>
   <title_t>Editorial</title_t>
   <hero_text_html>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text_html>
   <hero_title_html><![CDATA[<h1>Hi, I&rsquo;m Editorial Demo</h1>
@@ -40,6 +40,24 @@
       <disableFlattening>false</disableFlattening>
     </item>
 
+    <item datasource="TODO" inline="true">
+      <key>57423a45-3399-4682-80ee-f4ddbd48e16a</key>
+      <value>New Feature</value>
+      <component id="57423a45-3399-4682-80ee-f4ddbd48e16a">
+        <content-type>/component/feature</content-type>
+        <display-template>/templates/web/components/feature.ftl</display-template>
+        <internal-name><![CDATA[New Feature]]></internal-name>
+        <file-name>57423a45-3399-4682-80ee-f4ddbd48e16a.xml</file-name>
+        <merge-strategy>inherit-levels</merge-strategy>
+        <createdDate_dt>2022-01-07T21:32:43.256Z</createdDate_dt>
+        <lastModifiedDate_dt>2022-01-07T21:32:43.256Z</lastModifiedDate_dt>
+        <objectId>57423a45-3399-4682-80ee-f4ddbd48e16a</objectId>
+        <disabled>false</disabled>
+        <icon_s>fa-closed-captioning far</icon_s>
+        <title_t>Feature Title</title_t>
+        <body_html>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</body_html>
+      </component>
+    </item>
     <item datasource="features" inline="true">
       <key>a89386c4-a205-2681-2db1-c3606f714411</key>
       <value>Build</value>
