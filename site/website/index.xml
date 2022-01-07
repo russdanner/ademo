@@ -27,37 +27,12 @@
   <createdDate>2017-1-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2021-03-31T18:08:03.196Z</lastModifiedDate>
-  <lastModifiedDate_dt>2022-01-07T21:32:21.457Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2022-01-07T21:32:26.640Z</lastModifiedDate_dt>
   <title_t>Editorial</title_t>
   <hero_text_html>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text_html>
   <hero_title_html><![CDATA[<h1>Hi, I&rsquo;m Editorial Demo</h1>
 <h3><span style="font-size: 1.5em;">by HTML5 UP</span></h3>]]></hero_title_html>
   <features_o item-list="true">
-    <item datasource="features" inline="true">
-      <key>310b0c87-c3ca-4da0-4aa2-7002a318d7ce</key>
-      <value>Download</value>
-      <disableFlattening>false</disableFlattening>
-      <component id="310b0c87-c3ca-4da0-4aa2-7002a318d7ce">
-        <content-type>/component/feature</content-type>
-        <display-template>/templates/web/components/feature.ftl</display-template>
-        <no-template-required/>
-        <merge-strategy>inherit-levels</merge-strategy>
-        <objectGroupId>310b</objectGroupId>
-        <objectId>310b0c87-c3ca-4da0-4aa2-7002a318d7ce</objectId>
-        <file-name>310b0c87-c3ca-4da0-4aa2-7002a318d7ce.xml</file-name>
-        <internal-name>Download</internal-name>
-        <title_t>Download</title_t>
-        <disabled>false</disabled>
-        <icon_s>fa-arrow-alt-circle-down far</icon_s>
-        <body_html>&lt;p&gt;Download ornare velit lacus, ac varius enim lorem ullamcorper dolore.
-          Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.&lt;/p&gt;
-        </body_html>
-        <createdDate>2019-10-11T19:20:07.555Z</createdDate>
-        <createdDate_dt>2019-10-11T19:20:07.555Z</createdDate_dt>
-        <lastModifiedDate>2019-12-22T11:56:51.172Z</lastModifiedDate>
-        <lastModifiedDate_dt>2019-12-22T11:56:51.172Z</lastModifiedDate_dt>
-      </component>
-    </item>
     <item datasource="features">
       <key>/site/components/features/4be0a368-783c-8f73-7469-63a62636bd4c.xml</key>
       <value>Smile</value>
